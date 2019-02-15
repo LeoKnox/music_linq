@@ -1,0 +1,11 @@
+/Users/Aelien/Documents/c#/MusicLinqSkeleton-master/bin/Debug/netcoreapp2.1/LinqSkeleton.deps.json
+/Users/Aelien/Documents/c#/MusicLinqSkeleton-master/bin/Debug/netcoreapp2.1/LinqSkeleton.runtimeconfig.json
+/Users/Aelien/Documents/c#/MusicLinqSkeleton-master/bin/Debug/netcoreapp2.1/LinqSkeleton.runtimeconfig.dev.json
+/Users/Aelien/Documents/c#/MusicLinqSkeleton-master/bin/Debug/netcoreapp2.1/LinqSkeleton.dll
+/Users/Aelien/Documents/c#/MusicLinqSkeleton-master/bin/Debug/netcoreapp2.1/LinqSkeleton.pdb
+/Users/Aelien/Documents/c#/MusicLinqSkeleton-master/obj/Debug/netcoreapp2.1/LinqSkeleton.csprojAssemblyReference.cache
+/Users/Aelien/Documents/c#/MusicLinqSkeleton-master/obj/Debug/netcoreapp2.1/LinqSkeleton.csproj.CoreCompileInputs.cache
+/Users/Aelien/Documents/c#/MusicLinqSkeleton-master/obj/Debug/netcoreapp2.1/LinqSkeleton.AssemblyInfoInputs.cache
+/Users/Aelien/Documents/c#/MusicLinqSkeleton-master/obj/Debug/netcoreapp2.1/LinqSkeleton.AssemblyInfo.cs
+/Users/Aelien/Documents/c#/MusicLinqSkeleton-master/obj/Debug/netcoreapp2.1/LinqSkeleton.dll
+/Users/Aelien/Documents/c#/MusicLinqSkeleton-master/obj/Debug/netcoreapp2.1/LinqSkeleton.pdb
